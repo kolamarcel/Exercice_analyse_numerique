@@ -3,8 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # --- DONNÉES ---
-x_pts = [0, 1, 2, 3, 4]
-y_pts = [1, 3, 2, 5, 4]
+x_pts = [0, 1, 2, 3, 4 ,6]
+y_pts = [1, 3, 2, 5, 4 , 6]
 valeur_test = 2.5
 
 # ==========================================

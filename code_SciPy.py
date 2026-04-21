@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 from scipy.interpolate import interp1d
 
 # --- DONNÉES ---
-x_pts = [0, 1, 2, 3, 4]
-y_pts = [1, 3, 2, 5, 4]
+x_pts = [0, 1, 2, 3, 4, 5]
+y_pts = [1, 3, 2, 5, 4, 6]
 valeur_test = 2.5
 
 # ==========================================
